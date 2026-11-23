@@ -1,0 +1,40 @@
+{
+  "body": {
+    "chara": {
+      "group": [
+        { "sys_id": 1, "res_id": "RIINE_DEFAULT", "name": "源リイネ", "full_name": "純真の姫君" },
+        { "sys_id": 2, "res_id": "KAYA_DEFAULT", "name": "藤原カヤ", "full_name": "いつまでも一緒に" },
+        { "sys_id": 3, "res_id": "REINA_DEFAULT", "name": "織田レイナ", "full_name": "気ままな最強姫" },
+        { "sys_id": 4, "res_id": "NANA_DEFAULT", "name": "徳川ナナ", "full_name": "ひたむきな努力家" },
+        { "sys_id": 5, "res_id": "AKINA_DEFAULT", "name": "平アキナ", "full_name": "博識な大和撫子" },
+        { "sys_id": 6, "res_id": "KAREN_DEFAULT", "name": "豊臣カレン", "full_name": "学園のまとめ役" },
+        { "sys_id": 7, "res_id": "SAORI_DEFAULT", "name": "松前サオリ", "full_name": "優しき森の姫" },
+        { "sys_id": 8, "res_id": "TOWA_R", "name": "東雲トワ", "full_name": "迷える末っ子" },
+        { "sys_id": 9, "res_id": "SHIZU_SR", "name": "金谷シズ", "full_name": "負けず嫌いの剣士" },
+        { "sys_id": 10, "res_id": "RIINE_SR", "name": "源リイネ", "full_name": "箱入りの新入生" },
+        { "sys_id": 11, "res_id": "KYOUKO_DEFAULT", "name": "南部キョウコ", "full_name": "賑やかな双刀姫" },
+        { "sys_id": 12, "res_id": "IORI_DEFAULT", "name": "伊達イオリ", "full_name": "秘めたる素顔" },
+        { "sys_id": 13, "res_id": "KAYA_SR", "name": "藤原カヤ", "full_name": "一途な幼なじみ" },
+        { "sys_id": 14, "res_id": "HAGANE_SR", "name": "白川ハガネ", "full_name": "名刀に恋する乙女" },
+        { "sys_id": 15, "res_id": "SANA_DEFAULT", "name": "北条サナ", "full_name": "優しき世話役" },
+        { "sys_id": 16, "res_id": "SUMIRE_DEFAULT", "name": "本多スミレ", "full_name": "可憐なる鬼神" },
+        { "sys_id": 17, "res_id": "MINORI_SR", "name": "穂高ミノリ", "full_name": "幸せの食いしん坊" },
+        { "sys_id": 18, "res_id": "CHIYOKO_R", "name": "町田チヨコ", "full_name": "夜更けの剣影" },
+        { "sys_id": 19, "res_id": "RIKO_DEFAULT", "name": "上杉リコ", "full_name": "おすましレディ" },
+        { "sys_id": 20, "res_id": "MIKI_DEFAULT", "name": "武田ミキ", "full_name": "強気な純情" },
+        { "sys_id": 21, "res_id": "YURI_DEFAULT", "name": "真田ユリ", "full_name": "甘え上手な軍師" },
+        { "sys_id": 22, "res_id": "MIHO_SR", "name": "三浦ミホ", "full_name": "温泉好きの乙女" },
+        { "sys_id": 23, "res_id": "AZUSA_DEFAULT", "name": "足利アズサ", "full_name": "物思いの令嬢" },
+        { "sys_id": 24, "res_id": "ITSUKA_R", "name": "十条イツカ", "full_name": "素直な頑張り屋" },
+        { "sys_id": 25, "res_id": "MANAKA_R", "name": "西畑マナカ", "full_name": "泣き虫の頑張り屋" },
+        { "sys_id": 26, "res_id": "FUSAE_SR", "name": "中村フサエ", "full_name": "憧れ追う剣士" },
+        { "sys_id": 27, "res_id": "ANNA_DEFAULT", "name": "毛利アンナ", "full_name": "凛々しき乙女" },
+        { "sys_id": 28, "res_id": "MOTOKO_SR", "name": "栗屋モトコ", "full_name": "実直なる剛腕" },
+        { "sys_id": 29, "res_id": "MOMO_DEFAULT", "name": "長宗我部モモ", "full_name": "気さくな小悪魔" },
+        { "sys_id": 30, "res_id": "SHION_DEFAULT", "name": "島津シオン", "full_name": "気高き姫君" },
+        { "sys_id": 31, "res_id": "RIKO_SWIM", "name": "上杉リコ", "full_name": "渚のレディ" },
+        { "sys_id": 32, "res_id": "MIKI_SWIM", "name": "武田ミキ", "full_name": "真夏の純情" }
+      ]
+    }
+  }
+}
