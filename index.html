@@ -123,6 +123,13 @@ window.onload = function () {
   StateBoot.prototype.fitClientDisplaySizePc = function () {};
   StateBoot.prototype.setScreenSize = function () {};
   StateBoot.prototype.setFitClientDisplaySizePc = function () {};
+  StateTitle.prototype.goLogin = function () {};
+  StateStory.prototype.finishStory = function () {
+    if (this.finishingStory) return;
+    this.finishingStory = true;
+    try { this.storyPlayer && this.storyPlayer.stopSe(); } catch (e) {}
+    game.state.start('Title');
+  };
   var s = document.createElement('script');
   s.src = 'js/main.js';
   s.onload = waitForTitle;
